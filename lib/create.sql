@@ -7,7 +7,7 @@ start_date INTEGER,
 end_date INTEGER
 );
 
-CREATE TABLE projects (
+CREATE TABLE users (
 id INTEGER PRIMARY KEY,
 title TEXT,
 category INTEGER,
