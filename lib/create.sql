@@ -9,7 +9,7 @@ end_date INTEGER
 
 CREATE TABLE users (
 id INTEGER PRIMARY KEY,
-title TEXT,
+name TEXT,
 category INTEGER,
 funding_goal TEXT,
 start_date INTEGER,
